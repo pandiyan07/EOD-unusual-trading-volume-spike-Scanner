@@ -2,6 +2,8 @@
 
 **EOD Volume Anomaly Scanner**
 
+Built on - June 2024
+
 ## Table of Contents
 
 -   About The Project
@@ -54,8 +56,8 @@ participation or important market events.
 ### Installation
 
 ``` bash
-git clone https://github.com/yourusername/eod-volume-scanner.git
-cd eod-volume-scanner
+git clone https://github.com/pandiyan07/EOD-unusual-trading-volume-spike-Scanner.git
+cd EOD-unusual-trading-volume-spike-Scanner
 pip install yfinance
 python "EOD volume.py"
 ```
